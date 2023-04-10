@@ -1,7 +1,7 @@
 # CoffeeMachine
 An imitation of a real-time coffee dispensing machine.
 
-The following are the features of a coffee machine.
+The following are the features of this coffee machine.
 
 1) Prompt user by asking “What would you like? (espresso/latte/cappuccino/):”
 2) Turn off the Coffee Machine by entering “off” to the prompt.
